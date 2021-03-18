@@ -70,20 +70,8 @@ p{
     text-align: left;
 }
 
-/* image */
-/* 
-.inside{
-    position:relative;
-}
-
-.top-img{
-    width:60%;
-    transform:rotate(25deg);
-    position: absolute;
-    right:20%;
-} */
-
 /* features */
+
 #features{
     position: relative;
 }
